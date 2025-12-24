@@ -1,4 +1,4 @@
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/introduction_to_computer_science/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/introduction_to_computer_science/wiki) for more info
 
 ***
 
